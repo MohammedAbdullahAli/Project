@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3ACE-954B
+
+ Directory of C:\Users\MohammedAli\Desktop\MyProject
+
+12-02-2020  21:28    <DIR>          .
+12-02-2020  21:28    <DIR>          ..
+12-02-2020  21:28                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  446,765,834,240 bytes free
